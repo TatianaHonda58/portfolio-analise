@@ -1,9 +1,9 @@
 # Portfólio
-Este projeto tem como finalidade a de mostrar o meu trabalho de análise de requisitos e plano de teste
+Este projeto tem como finalidade de mostrar o meu trabalho de análise de requisitos e plano de teste.
 
-Neste repositório você irá encontrar a analise de dois (2) projetos, sendo um:
+Neste repositório você irá encontrar a análise de dois (2) projetos, sendo um:
 
-- Analise de requisitos de um protótipo Figma 
+- Análise de requisitos de um protótipo Figma 
 - Plano de Teste de um site
 
 ## Portfólio Análise de Requisitos
@@ -15,7 +15,7 @@ Neste repositório você irá encontrar a analise de dois (2) projetos, sendo um
 
 ## Portfólio Plano de Teste
 
-- Site utilizado para elaboração do Plano [Saucedemo](https://www.saucedemo.com)
+- Site utilizado para elaboração do Plano de Teste [Saucedemo](https://www.saucedemo.com)
   
 
 ![Home Site Saucedemo](img/site_saucedemo.png)
