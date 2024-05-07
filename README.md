@@ -10,12 +10,12 @@ Neste repositório você irá encontrar a analise de dois (2) projetos, sendo um
 
 - Protótipo do Figman [PodcastApp](https://www.uplabs.com/posts/podcast-app-free-ui-kit)
   
-![Referencia Protótipo](img\ref_figma.png)
+
+![Referencia Protótipo](img/ref_figma.png)
 
 ## Portfólio Plano de Teste
 
 - Site utilizado para elaboração do Plano [Saucedemo](https://www.saucedemo.com)
   
 
-![Home Site Saucedemo](img\site_saucedemo.png)
-  
+![Home Site Saucedemo](img/site_saucedemo.png)
