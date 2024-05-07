@@ -6,7 +6,7 @@ Neste repositório você irá encontrar a analise de dois (2) projetos, sendo um
 - Analise de requisitos de um protótipo Figma 
 - Plano de Teste de um site
 
-## Portfólio Analise de Requisitos
+## Portfólio Análise de Requisitos
 
 - Protótipo do Figman [PodcastApp](https://www.uplabs.com/posts/podcast-app-free-ui-kit)
   
