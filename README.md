@@ -8,7 +8,7 @@ Neste repositório você irá encontrar a análise de dois (2) projetos, sendo u
 
 ## Portfólio Análise de Requisitos
 
-- Protótipo do Figman [PodcastApp](https://www.uplabs.com/posts/podcast-app-free-ui-kit)
+- Protótipo do Figman [PodcastApp](https://search.muz.li/NDJlOWNhZTNj)
   
 
 ![Referencia Protótipo](img/ref_figma.png)
@@ -17,4 +17,5 @@ Neste repositório você irá encontrar a análise de dois (2) projetos, sendo u
 
 - Site utilizado para elaboração do Plano de Teste [Saucedemo](https://www.saucedemo.com)
   
+
 ![Home Site Saucedemo](img/site_saucedemo.png)
