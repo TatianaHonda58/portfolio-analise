@@ -13,7 +13,7 @@ Este projeto foi criado com o propósito de práticar o **levantamento de requis
 ## Análise do projeto
 A imagem abaixo irá indicar como foi feita a análise deste projeto, onde foi utilizado o **MIRO** para fazer a análise de forma visual.
 
-![Referencia da análise](img/ref_analise.png)
+![Referencia da análise](img/ref_analise 1.png)
 
 1. Indicação da imagem a ser analisada
 2. Indicação de qual requerimento iremos analisar, indicando seu número e nome 
